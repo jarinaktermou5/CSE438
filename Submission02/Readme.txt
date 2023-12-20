@@ -2,7 +2,7 @@ Link to unlisted YouTube video
 https://youtu.be/v7bc0TjbNsM
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1DARZ_OcgQuD4Fmr5nzj6zIDVz5Uazrq7aVVSzzfuwlY/edit?usp=sharing
+https://docs.google.com/presentation/d/1_LVYepRoBZIAf56CirVFS660Dyp9eQvE
 
 Paper title:
 DIP: Dual Incongruity Perceiving Network for Sarcasm Detection
