@@ -8,7 +8,7 @@ Paper title:
 DIP: Dual Incongruity Perceiving Network for Sarcasm Detection
 
 Link to the paper:
-https://link.springer.com/article/10.1007/s00521-022-07049-z?fbclid=IwAR2Yj3aQlG192nLSlTOi-xOqWe75oU1Cjf_gEagVj3MXXiO2nTEIu4xMqPE
+https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_DIP_Dual_Incongruity_Perceiving_Network_for_Sarcasm_Detection_CVPR_2023_paper.pdf
 
 Group Number: 05
 
